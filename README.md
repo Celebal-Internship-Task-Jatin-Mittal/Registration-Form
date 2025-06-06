@@ -1,4 +1,4 @@
-# 🚀 React Registration Form with Validation & Dynamic UI
+# 🚀 React Registration Form with Dynamic UI
 
 Welcome to this sleek, modern **User Registration Form** built with React! This project combines smooth animations, real-time validation, and a dynamic user experience to create a professional-grade form — ideal for learning, demoing, or integrating into your next web app.
 
